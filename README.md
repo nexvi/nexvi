@@ -1,5 +1,6 @@
-# 💫 About Me:
-Currently practicing python devops and backend development whilst planning on learning Golang &/or Rust.
+# 💫 Status:
+### Currently Practicing:
+### Planning to work with: ![GoLang](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 ## 🌐 Socials:
