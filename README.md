@@ -1,6 +1,6 @@
 # 💫 Status:
-### Currently Practicing:
-### Planning to work with: ![GoLang](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Currently Practicing DevOps & Backend Development: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Planning to work with: ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 ## 🌐 Socials:
